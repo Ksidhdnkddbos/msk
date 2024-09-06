@@ -19,7 +19,7 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
-from YukkiMusic.utils.formatters import time_to_seconds
+from YMusic.utils.formatters import time_to_seconds
 
 
 def cookies():
